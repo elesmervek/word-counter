@@ -1,0 +1,90 @@
+body {
+    background-image: url("https://media.giphy.com/media/zTQQPJXn1j8Jy/giphy.gif");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: #ffcfd2;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid #ffafcc;
+    border-radius: 10px;
+}
+
+
+h1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-shadow: 5px 0 1px #ee6055;
+    color: #ffc09f;
+    border: 5px solid #ff87ab;
+    border-radius: 40px;
+    background: #EC9ED8;
+    padding: 6px
+    
+    
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    border: 3px solid #fde4cf;
+    background-color: #ffc09f;
+    color: #ffc6ff;
+    text-shadow: 5px 0 1px #ff5d8f;
+    border-radius: 100px;
+ 
+    
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #ffc2d1;
+    border: 2px solid #fb6f92;
+    border-radius: 10px;
+    color: #ff5d8f;
+    font-weigt: bold; 
+    
+}
+
+#save-btn {
+    background: #ffc2d1;
+    border: 2px solid #fb6f92;
+    border-radius: 10px;
+    color: #ff5d8f;
+    font-weigt: bold
+}
+
+#reset-btn {
+     background: #ffc2d1;
+    border: 2px solid #fb6f92;
+    border-radius: 10px;
+    color: #ff5d8f;
+    font-weigt: bold
+}
+
+p {
+    text-shadow: px 0 1px #ee6055;
+    color: #fb6f92;
+    font-size: bold;
+    border: px solid #ffc09f;
+    background-color: #f9dcc4;
+    border-size: 50px;
+    
+}
+
